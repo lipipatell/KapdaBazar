@@ -1,0 +1,21 @@
+# Ignore database files
+/database/
+/*.sql
+
+# Ignore config files with credentials
+config.php
+
+# Ignore XAMPP / local files
+.htaccess
+.env
+
+# Ignore logs
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+/tmp/
+/cache/
